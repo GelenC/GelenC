@@ -2,8 +2,7 @@
 
 ## ¡Hola, soy Gelen! 💻
 
-## 🎓 Desarrollo de Aplicaciones Multiplataforma 📲 
-Soy estudiante de DAM, Apasionada por la tecnología y la creación de soluciones útiles.
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma 🎓, Apasionada por la tecnología y la creación de soluciones útiles 📲 
 
 
 ## 💬 Información De Contacto  
