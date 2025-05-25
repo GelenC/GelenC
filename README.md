@@ -1,21 +1,32 @@
-<img src="./Portada/fondoazul.png" alt="Imagen destacada de mi perfil en LinkedIn, alineada con mi visión profesional" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
+<h1 align="center">Hola, soy Gelen 🙋‍♀️</h1>
+<img src="./Portada/fondoazul.png" alt="Imagen destacada de mi perfil en LinkedIn" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
 
-## 👨‍💻 App Developer
+ 
+Soy una apasionada del desarrollo de aplicaciones 🚀 en constante aprendizaje 📚.  
+Me encanta aprender nuevas tecnologías 🧠 y expandir mis conocimientos 👩‍💻.
 
-¡Hola! Soy un apasionada del desarrollo de software en constante aprendizaje. Actualmente, estoy especializándome en la creación de aplicaciones tanto para entornos móviles como de escritorio.
+## 🛠️ Entre mis habilidades puedo destacar:
 
-## 📚 Entre mis habilidades y tecnologías están:
+- 💻 Lenguajes como **Java**, **Kotlin**, **C#** (para desarrollo en Unity) y **TypeScript**  
+- 🗄️ Gestión de bases de datos como **PostgreSQL** y **MySQL**  
+- 🧱 Frameworks como **Spring Boot** y **Jetpack Compose**  
+- 🧰 Entornos de desarrollo como **Android Studio**, **Visual Studio**, **Unity** y **Eclipse**
 
-Lenguajes como Java, Kotlin, C# (Para desarrollo en Unity) y TypeScript.
-
-Gestión de bases de datos como Postgres, MySQL o SQLite (Room).
-
-Frameworks como Spring Boot y Jetpack Compose.
-
-Entornos de desarrollo como Android Studio, Visual Studio, Unity y Eclipse.
-
-Y me encanta aprender nuevas tecnologías y expandir mis conocimientos.
-
+## Proyectos *bombitas*
+<table>
+<tr>
+  <td width="50%">
+     <h3 align="center">Proyecto Melodix</h3>
+     <div align="center">
+     <p>
+     <a href="https://github.com/GelenC/Melodix" target="_blank">
+     <img src="./Portada/melodixR.png">
+     </p>
+     <p>Este es mi proyecto de fin de grado, un reproductor de música que integra las APIs de Spotify y Youtube para explorar y reproducir contenido musical, además he implementado una API personal con una base de datos en remoto que gestiona los datos personalizados del usuario, así puedes guardar tus canciones o artistas favoritos y diseñar tus propias listas de reproducción. Espero que te guste 🎧🎵🌈</p>
+</div>                                                                                 
+  </td>
+</tr>
+</table>
 ## 💬 Información De Contacto  
 ✉ [Email](mailto:gelenc08@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/gelen-cueto-3a31a0310/)  
