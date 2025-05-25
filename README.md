@@ -24,6 +24,15 @@
     <img src="./Portada/melodixAF.png" width="170" height="350">
   </a>
   <p>
+
+   ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/GelenC">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GelenC&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GelenC&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
     Este es mi proyecto de fin de grado: un reproductor de música que permite explorar contenido desde Spotify y reproducirlo desde YouTube. 
     También puedes guardar tus canciones y artistas favoritos, y crear listas de reproducción personalizadas. 🎧🎵🌈
   </p>
