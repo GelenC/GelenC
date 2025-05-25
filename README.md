@@ -19,9 +19,9 @@
      <h3 align="center">Proyecto Melodix</h3>
      <div align="center">
   <a href="https://github.com/GelenC/Melodix" target="_blank">
-    <img src="./Portada/melodixLR.png" width="200" height="350">
-    <img src="./Portada/melodixR.png" width="200" height="350">
-    <img src="./Portada/melodixAF.png" width="200" height="350">
+    <img src="./Portada/melodixLR.png" width="180" height="350">
+    <img src="./Portada/melodixR.png" width="180" height="350">
+    <img src="./Portada/melodixAF.png" width="180" height="350">
   </a>
   <p>
     Este es mi proyecto de fin de grado: un reproductor de música que permite explorar contenido desde Spotify y reproducirlo desde YouTube. 
