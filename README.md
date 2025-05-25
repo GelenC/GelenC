@@ -1,4 +1,4 @@
-<img src="./Portada/FondoGithubC.png" alt="Imagen destacada de mi perfil en LinkedIn, alineada con mi visión profesional" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
+<img src="./Portada/fondoazul.png" alt="Imagen destacada de mi perfil en LinkedIn, alineada con mi visión profesional" style="width:100%; max-width:400px; border-radius:10px; margin-bottom:20px;">
 
 ## 👨‍💻 App Developer
 
