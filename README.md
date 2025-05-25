@@ -16,7 +16,7 @@
 <table>
 <tr>
   <td width="50%">
-     <h3 align="center">Proyecto Melodix</h3>
+     <h3 align="center">Melodix</h3>
      <div align="center">
   <a href="https://github.com/GelenC/Melodix" target="_blank">
     <img src="./Portada/melodixLR.png" width="170" height="350">
