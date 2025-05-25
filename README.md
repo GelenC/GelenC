@@ -32,7 +32,7 @@
 </tr>
 </table>
 
-   ### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center"> ⚙️ &nbsp;GitHub Analytics </h1>
 
 <p align="center">
 <a href="https://github.com/GelenC">
