@@ -20,7 +20,7 @@
      <div align="center">
      <p>
      <a href="https://github.com/GelenC/Melodix" target="_blank">
-    <img src="./Portada/melodixR.png" width="50%" height="100">
+    <img src="./Portada/melodixR.png" width="50" height="200">
      </p>
      <p>Este es mi proyecto de fin de grado, un reproductor de música que integra las APIs de Spotify y Youtube para explorar y reproducir contenido musical, además he implementado una API personal con una base de datos en remoto que gestiona los datos personalizados del usuario, así puedes guardar tus canciones o artistas favoritos y diseñar tus propias listas de reproducción. Espero que te guste 🎧🎵🌈</p>
 </div>                                                                                 
