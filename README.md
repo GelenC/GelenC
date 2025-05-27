@@ -7,7 +7,7 @@
 
 ## 🛠️ Entre mis habilidades puedo destacar:
 
-- 💻 Lenguajes como **Java**, **Kotlin**, **C#** (para desarrollo en Unity) y **TypeScript**  
+- 💻 Lenguajes como **Java**, **Kotlin** y **C#** (para desarrollo en Unity) 
 - 🗄️ Gestión de bases de datos como **PostgreSQL** y **MySQL**  
 - 🧱 Frameworks como **Spring Boot** y **Jetpack Compose**  
 - 🧰 Entornos de desarrollo como **Android Studio**, **Visual Studio**, **Unity** y **Eclipse**
