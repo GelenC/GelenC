@@ -7,10 +7,9 @@
 
 ## 🛠️ Entre mis habilidades puedo destacar:
 
-- 💻 Lenguajes como **Java**, **Kotlin** y **C#** (para desarrollo en Unity) 
+- 💻 Lenguajes como **Java** y **Kotlin** (Tambien he trabajado con **C#** para desarrollo de videojuegos en Unity 👾​🎮) 
 - 🗄️ Gestión de bases de datos como **PostgreSQL** y **MySQL**  
-- 🧱 Frameworks como **Spring Boot** y **Jetpack Compose**  
-- 🧰 Entornos de desarrollo como **Android Studio**, **Visual Studio**, **Unity** y **Eclipse**
+- 🧰 Entornos de desarrollo como **Android Studio**📲​, **Visual Studio**, **Unity** y **Eclipse**🌘
 
 ## Puedes explorar mas de mi trabajo *A continuación ⬇️*
 <table>
@@ -24,7 +23,7 @@
     <img src="./Portada/melodixAF.png" width="170" height="350">
   </a>
   <p>
-    Este es mi proyecto de fin de grado: un reproductor de música que permite explorar contenido desde Spotify y reproducirlo desde YouTube. 
+    Proyecto personal: un reproductor de música que permite explorar contenido desde Spotify y reproducirlo desde YouTube. 
     También puedes guardar tus canciones y artistas favoritos, y crear listas de reproducción personalizadas. 🎧🎵🌈
   </p>
 </div>                                                                            
